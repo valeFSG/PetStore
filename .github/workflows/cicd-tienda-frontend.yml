@@ -1,5 +1,4 @@
-name: "CI/CD Tienda Perritos - Frontend"                                                                                                                                                                                                                 name: CI/CD Tienda Perritos - Frontend
-
+name: CI/CD Tienda Perritos - frontend
 on:
   push:
     branches: [ "main" ]
